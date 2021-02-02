@@ -18,7 +18,7 @@ Currently looking into the following:
 
 - Paul Whapples
 
-## License and Copyright
+## Copyright and License
 
 © Paul Whapples
 
