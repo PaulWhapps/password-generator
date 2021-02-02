@@ -8,7 +8,7 @@
 - Change log.
 - Added a link to change log in readme.
 - Added roadmap in readme.
-- Added contributiors in readme.
+- Added contributors in readme.
 - Added copyright and licence information in readme.
 
 **Fixes:**
