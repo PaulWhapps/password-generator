@@ -1,6 +1,6 @@
 ## Change log
 
-### v1.0.1 - February 2, 2021
+### v0.1.1 - February 2, 2021
 
 *Improvements*
 
@@ -16,7 +16,7 @@
 - Removed several lines of code, improving readability.
 - Fixed errors in readme.
 
-### v1.0.0 - February 2, 2021
+### v0.1.0 - February 2, 2021
 
 *Initial release.*
 
