@@ -6,10 +6,10 @@
 
 **Added:**
 - Change log.
-- Added link to change log in readme.
+- Added a link to change log in readme.
 - Added roadmap in readme.
-- Added contributions in readme.
-- Added licence information in readme.
+- Added contributiors in readme.
+- Added copyright and licence information in readme.
 
 **Fixes:**
 - Fixed issue where password output was random, but uniform.
