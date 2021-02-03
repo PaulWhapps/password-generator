@@ -13,7 +13,7 @@ class PassGenerator():
         return random_string
     
     def symbols(self):#selects a random symbol from the list below
-        symbols = ['~','`','!','@','$','%','^','&','*','(',')','_','-','+','=','{','[','}',']','|','<','>','.','?','/']
+        symbols = ['!','@','#','%','&','*','(',')']
         random_symbol = random.choice(symbols)
         return random_symbol
             

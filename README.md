@@ -2,23 +2,23 @@
 
 Password generator provides users with 14 random characters (uppercase and lowercase letters, numbers, and symbols).
 
-### **Version 1.0.1**
+#### **Version 0.1.2**
 
-## Change log
+### Change log
 
  - [Change log](CHANGELOG.md)
 
-## Roadmap
+### Roadmap
 
 Currently looking into the following:
 
 - GUI
 
-## Contributors 
+### Contributors 
 
 - Paul Whapples
 
-## License and Copyright
+### Copyright and License
 
 © Paul Whapples
 
