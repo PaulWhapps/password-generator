@@ -10,7 +10,7 @@ def letterpass():# Genrates random uppercase and lowercase letters.
     random_string = ''.join(random.choice(letters) for i in range(7))
     return random_string
 
-def symbol():# Selects symbol for symbols list.
+def symbol():# Selects random symbol from symbols list.
     symbols = ['!','@','#','%','&','*','(',')']
     random_symbol = random.choice(symbols)
     return random_symbol
