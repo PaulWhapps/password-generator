@@ -1,5 +1,13 @@
 ## Change log
 
+### v0.1.3 - February 5, 2021
+
+*Improvements*
+
+**Fixes**
+
+- Improved readability of code.
+
 ### v0.1.2 - February 3, 2021
 
 *Bug fixes*
