@@ -43,6 +43,7 @@ class MainWindow(qtw.QWidget):
         random.shuffle(li)
         final_string = ''.join(str(i) for i in li)
         self.result_field.setText(final_string)
+        
 
 app = qtw.QApplication([])
 mw = MainWindow()
