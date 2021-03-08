@@ -9,7 +9,7 @@ class MainWindow(qtw.QWidget):
         self.setWindowTitle('Generator')
         self.setLayout(qtw.QVBoxLayout())
         self.keypad()
-        self.setGeometry(120,120,200,75)
+        self.setGeometry(120,120,175,75)
 
         self.show()
 
