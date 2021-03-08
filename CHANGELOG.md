@@ -1,6 +1,14 @@
 ## Change log
 
-### v0.1.5 February , 2021
+### v1.0.0 March 8, 2021
+
+*Improvements*
+
+**Added**
+
+- GUI with base functionality.
+
+### v0.1.5 February 11, 2021
 
 *Improvements*
 
