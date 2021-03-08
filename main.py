@@ -6,7 +6,7 @@ import string
 class MainWindow(qtw.QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle('Password Generator')
+        self.setWindowTitle('Generator')
         self.setLayout(qtw.QVBoxLayout())
         self.keypad()
         self.setGeometry(120,120,200,75)
@@ -43,7 +43,7 @@ class MainWindow(qtw.QWidget):
         random.shuffle(li)
         final_string = ''.join(str(i) for i in li)
         self.result_field.setText(final_string)
-        
+
 
 app = qtw.QApplication([])
 mw = MainWindow()
